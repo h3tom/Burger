@@ -23,8 +23,8 @@ class BurgeIngredient extends Component {
       case ('cheese'):
         ingredient = <div className={classes.Cheese}></div>;
         break;
-      case ('beacon'):
-        ingredient = <div className={classes.Beacon}></div>;
+      case ('bacon'):
+        ingredient = <div className={classes.Bacon}></div>;
         break;
       case ('salad'):
         ingredient = <div className={classes.Salad}></div>;
